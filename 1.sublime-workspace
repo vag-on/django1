@@ -166,7 +166,6 @@
 			"settings":
 			{
 				"buffer_size": 56,
-				"encoding": "UTF-8",
 				"line_ending": "Windows",
 				"name": "*.pyc"
 			},
@@ -179,6 +178,14 @@
 					null,
 					"AQAAAAAAAAAAAAAAOAAAAAAAAAAAAAAA",
 					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAA4AAAAKi5weWMKKn4KX19weWNhY2hlX18KbXl2ZW52CmRiLnNxbGl0ZTMKL3N0YXRpYwouRFNfU3RvcmUAAAAAAAAAADgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOAAAAAAAAAA4AAAAAAAAAAAAAAAAAPC/"
 				]
 			]
 		}
@@ -194,6 +201,26 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"guick",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"add",
+				"Git: Add All"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Install Package Control"
+			]
 		],
 		"width": 0.0
 	},
@@ -524,7 +551,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 39.0
 	},
 	"layout":
 	{
@@ -552,6 +579,10 @@
 	"output.find_results":
 	{
 		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 126.0
 	},
 	"pinned_build_system": "",
 	"project": "",
