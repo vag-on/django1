@@ -1,0 +1,603 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "mysite/settings.py",
+			"settings":
+			{
+				"buffer_size": 3192,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "ru-r"
+					},
+					"BQAAAEYLAAAAAAAARwsAAAAAAAAAAAAARwsAAAAAAABHCwAAAAAAAAUAAABlbi11c0cLAAAAAAAASAsAAAAAAAAAAAAASAsAAAAAAABJCwAAAAAAAAAAAABJCwAAAAAAAEoLAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASwsAAAAAAABGCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "u"
+					},
+					"AQAAAEoLAAAAAAAASwsAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASgsAAAAAAABKCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"paste",
+					null,
+					"AgAAAFsLAAAAAAAAaAsAAAAAAAAAAAAAaAsAAAAAAABoCwAAAAAAAAMAAABVVEM",
+					"AQAAAAAAAAABAAAAXgsAAAAAAABbCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAABsMAAAAAAAAHAwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGwwAAAAAAAAbDAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"paste",
+					null,
+					"AQAAABsMAAAAAAAASQwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGwwAAAAAAAAbDAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					17,
+					1,
+					"paste",
+					null,
+					"AgAAAC4DAAAAAAAAYgMAAAAAAAAAAAAAYgMAAAAAAABiAwAAAAAAABIAAABBTExPV0VEX0hPU1RTID0gW10",
+					"AQAAAAAAAAABAAAAQAMAAAAAAAAuAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAEsEAAAAAAAATAQAAAAAAAAAAAAATAQAAAAAAABQBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASwQAAAAAAABLBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"insert_snippet",
+					{
+						"contents": "'$0'"
+					},
+					"AQAAAFAEAAAAAAAAUgQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUAQAAAAAAABQBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": "blog"
+					},
+					"BAAAAFEEAAAAAAAAUgQAAAAAAAAAAAAAUgQAAAAAAABTBAAAAAAAAAAAAABTBAAAAAAAAFQEAAAAAAAAAAAAAFQEAAAAAAAAVQQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUQQAAAAAAABRBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAFYEAAAAAAAAVwQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVgQAAAAAAABWBAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "blog/models.py",
+			"settings":
+			{
+				"buffer_size": 547,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					2,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAA5AAAAZnJvbSBkamFuZ28uZGIgaW1wb3J0IG1vZGVscwoKIyBDcmVhdGUgeW91ciBtb2RlbHMgaGVyZS4K",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAA5AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					3,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAIwIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "blog/admin.py",
+			"settings":
+			{
+				"buffer_size": 84,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					2,
+					1,
+					"paste",
+					null,
+					"AgAAAAAAAAAAAAAAVAAAAAAAAAAAAAAAVAAAAAAAAABUAAAAAAAAAD8AAABmcm9tIGRqYW5nby5jb250cmliIGltcG9ydCBhZG1pbgoKIyBSZWdpc3RlciB5b3VyIG1vZGVscyBoZXJlLgo",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 56,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "*.pyc"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAOAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Koval/django1",
+		"/C/Users/Koval/django1/blog",
+		"/C/Users/Koval/django1/mysite"
+	],
+	"file_history":
+	[
+		"/C/Users/Koval/Desktop/MPK/MPK.exe.config",
+		"/C/Users/Koval/Desktop/MPK/data/base.xml",
+		"/C/Users/Koval/Desktop/MPK/MPK.xml",
+		"/C/Users/Koval/Desktop/MPK/AutomaticUpdater.xml",
+		"/C/Users/Koval/Desktop/MPK/System.Data.SQLite.xml",
+		"/F/VW B5/VAG Commander 1.4/MWB.TXT",
+		"/F/VW B5/VAG Commander 1.4/k-line usage.txt",
+		"/F/VW B5/VAG Commander 1.4/installation 1.2-6+.txt",
+		"/F/VW B5/VAG Commander 1.4/usage of value fields for adaptations.txt",
+		"/F/VW B5/VAG Commander 1.4/VAG.txt",
+		"/F/VW B5/VAG Commander 1.4/FLASH MEMORY.txt",
+		"/F/Nextcloud/2022-01-01 11-40-22-0.txt",
+		"/C/Users/Koval/Desktop/hyu.asc",
+		"/C/Users/Koval/Desktop/CandyFlora.asc",
+		"/C/Users/Koval/Desktop/hdr.asc",
+		"/C/Users/Koval/Desktop/1238.asc",
+		"/C/Users/Koval/Desktop/status",
+		"/?wsl$/kali-linux/var/lib/dpkg/status",
+		"/C/Users/Koval/Desktop/configs-ovpn/server.ovpn",
+		"/C/Program Files/OpenVPN/config-auto/server.ovpn",
+		"/C/Users/Koval/Desktop/.zshrc",
+		"/C/Users/Koval/Documents/MEGAsync/secret-key-element-vag.txt",
+		"/C/Users/Koval/Documents/MEGAsync/Nextcloud-backup-codes.txt",
+		"/C/Users/Koval/AppData/Local/Temp/7zO8806D4ED/CONTENTS.txt",
+		"/C/Users/Koval/Desktop/DGROOT/bin/win32-dg9_9_13.conf.txt",
+		"/C/Users/Koval/AppData/Local/Temp/7zO880A4E26/CONTENTS.txt",
+		"/C/Users/Koval/Documents/Fiddler2/Scripts/BrowserPAC.js",
+		"/C/Users/Koval/AppData/Local/Temp/7zOCBBFB913/Инструкция.txt",
+		"/C/Users/Koval/AppData/Local/Temp/7zO42F29E11/Инструкция.txt",
+		"/C/Users/Koval/AppData/Local/Temp/7zO42FB7261/menjaem-username-na-imja-polzovatelja.xml",
+		"/C/Users/Koval/Desktop/configs-ovpn/client.ovpn",
+		"/C/Program Files/OpenVPN/config-auto/README.txt",
+		"/C/Users/Koval/Desktop/configs-ovpn/openssl-1.0.0.cnf",
+		"/C/Program Files/OpenVPN/easy-rsa/vars",
+		"/C/Users/Koval/Desktop/02.12.21.txt",
+		"/C/Users/Koval/Desktop/l'l.txt",
+		"/C/Users/Koval/AppData/Roaming/GlavSoft/MightyViewer/store.db",
+		"/C/Users/Koval/Desktop/database.xml",
+		"/C/Users/Koval/Desktop/Товар (4).txt",
+		"/C/Users/Koval/Desktop/1.txt",
+		"/C/Users/Koval/Desktop/132.txt",
+		"/C/Users/Koval/Documents/repos/docker-nextcloud/configs/nginx/conf.d/default.conf",
+		"/C/Users/Koval/Documents/repos/docker-nextcloud/docker-compose.yml",
+		"/J/ОВМ/сетка.txt",
+		"/F/NEXTCLOUD/Заметки/Ну что расскажешь, сударь.txt",
+		"/C/docker-nextcloud/docker-compose.yml",
+		"/C/Users/Koval/AppData/Local/Temp/7zOC19571E0/README.txt",
+		"/F/VW B5/VAG Commander 1.4/Motometers.txt",
+		"/F/VW B5/VAG Commander 1.4/MWB_de.TXT",
+		"/C/Users/Koval/Desktop/PGP_pub_cflo.asc",
+		"/C/docker-nextcloud/configs/nginx/conf.d/default.conf",
+		"/C/Users/Koval/AppData/Local/Temp/7zOC651F7F5/VAG.txt",
+		"/C/Users/Koval/AppData/Local/Temp/7zOC650D426/usage of value fields for adaptations.txt",
+		"/C/Users/Koval/AppData/Local/Temp/7zOC65FA6A5/bugfixes open issues.txt",
+		"/C/Users/Koval/Documents/repos/docker-nextcloud/docker-compose.yml.dist",
+		"/C/Users/Koval/Desktop/pub_hyu.asc",
+		"/C/Users/Koval/Desktop/d1.txt.pgp",
+		"/C/Users/Koval/Downloads/Telegram Desktop/Товар (4).txt",
+		"/C/Users/Koval/Downloads/Telegram Desktop/Товар (2).txt",
+		"/C/Users/Koval/Desktop/15.06.21.txt",
+		"/C/Users/Koval/Downloads/Telegram Desktop/Товар (3).txt",
+		"/I/Товар.txt",
+		"/C/Users/Koval/Downloads/Kotatogram Desktop/DataExport_2021-10-09/chats/chat_003/files/cc.txt",
+		"/C/Users/Koval/Downloads/Telegram Desktop/Товар.txt",
+		"/I/Новый текстовый документ.txt",
+		"/I/README.txt",
+		"/C/Users/Koval/AppData/Local/Temp/7zO401087A2/README.txt",
+		"/C/Users/Koval/Downloads/Mailbird.Pro.v2.9.34.0-RSLOAD.NET-/README.txt",
+		"/C/Users/Koval/Desktop/VASYA/Files Vag Diagnost /System42/Сборник прошивок.txt",
+		"/C/Users/Koval/Downloads/Telegram Desktop/Инструкция по установке.txt",
+		"/C/Users/Koval/Desktop/ventoy-1.0.54/log.txt",
+		"/C/MyBootCD/CD/HBCD/menu-custom.lst",
+		"/C/MyBootCD/CD/HBCD.txt",
+		"/C/Users/Koval/Desktop/bileti-pdd-abm-pddmaster.ru-10.0_files/headings.htm",
+		"/C/Users/Koval/Desktop/bileti-pdd-abm-pddmaster.ru-10.0.html",
+		"/C/Users/Koval/AppData/Local/Temp/7zO88D77D3A/start_os.bin",
+		"/C/Users/Koval/AppData/Local/Temp/7zO88D7BB0A/Bootmgr",
+		"/C/Users/Koval/AppData/Local/Temp/7zO88D7EBDB/menu.lst",
+		"/C/Users/Koval/AppData/Local/Temp/7zO88D5ED39/BCD",
+		"/C/Users/Koval/Desktop/прицел.txt",
+		"/F/WinBoot v.6/ReadMe.txt",
+		"/I/05.03.2019/desk/nativelog.txt",
+		"/C/Users/Koval/AppData/Local/Temp/7zO41F85487/Читать.To read.txt",
+		"/C/Users/Koval/AppData/Local/Temp/7zOCCD7174F/драйвера для Windows 8.txt",
+		"/H/autorun.inf",
+		"/H/sources/flbfiles/flblauncher.ini",
+		"/I/sources/flbfiles/flblauncher.ini",
+		"/L/efi/boot/bootx64.efi",
+		"/C/Users/Koval/Desktop/systemctl status ajenti.service",
+		"/C/Users/Koval/Desktop/daftsx.txt",
+		"/C/Users/Koval/Desktop/vncpwd/1.bat",
+		"/C/Users/Koval/Desktop/ml1641.txt",
+		"/H/DIST/README.txt",
+		"/C/Users/Koval/Desktop/autorun.inf",
+		"/C/Users/Koval/Desktop/bootmgr",
+		"/H/Новый текстовый документ.txt",
+		"/C/Users/Koval/AppData/Local/Temp/7zOCB72F46D/Пароль.txt",
+		"/F/ТОПК/Activation/134/1337/idle_sha/456/1561654f6516546d654adasd16546516f54ds65421/1337/2222/2/БOЛЬШE KOНТEНTA/TУТ.txt",
+		"/F/ТОПК/Activation/134/1337/idle_sha/456/1561654f6516546d654adasd16546516f54ds65421/123123/L ภาค 2/PTHC 2009 (HMM) Gracel_Rona_etc/Looking for Fills.txt",
+		"/C/Users/Koval/Downloads/Telegram Desktop/Order1468687.txt",
+		"/C/Users/Koval/Downloads/Telegram Desktop/Order1466541.txt",
+		"/C/Users/Koval/Desktop/cc.txt",
+		"/C/Users/Koval/Downloads/Telegram Desktop/Order1201568 (2).txt",
+		"/C/Users/Koval/Downloads/Telegram Desktop/Order1200851 (2).txt",
+		"/C/Users/Koval/Desktop/Новый текстовый документ.txt",
+		"/C/Users/Koval/Desktop/cc/1",
+		"/C/Users/Koval/Desktop/bot.py",
+		"/C/Users/Koval/Downloads/Telegram Desktop/Order1200851.txt",
+		"/C/Users/Koval/Downloads/Telegram Desktop/Order1201568.txt",
+		"/C/Users/Koval/Desktop/cc",
+		"/C/Users/Koval/Downloads/Telegram Desktop/Order1062538.txt",
+		"/C/Users/Koval/VirtualBox VMs/GA/Logs/VBox.log",
+		"/C/Users/Koval/VirtualBox VMs/GA/Logs/VBoxHardening.log",
+		"/C/Users/Koval/Downloads/Telegram Desktop/Order1105143.txt",
+		"/C/Users/Koval/Desktop/ExePacker-master/pefile.py",
+		"/C/Users/Koval/Desktop/ExePacker-master/packer.py",
+		"/C/Users/Koval/Documents/MEGAsync/STUD/4 курс/ВКР/andr_backend/1/HeroApi/v1/includes/DbOperation.php",
+		"/C/Users/Koval/Documents/MEGAsync/STUD/4 курс/ВКР/andr_backend/1/HeroApi/v1/includes/DbConnect.php",
+		"/C/Users/Koval/Documents/MEGAsync/STUD/4 курс/ВКР/andr_backend/1/HeroApi/v1/includes/Constants.php",
+		"/C/Users/Koval/Downloads/Telegram Desktop/Order970804.txt",
+		"/C/Users/Koval/Documents/MEGAsync/STUD/4 курс/ВКР/andr_backend/1/HeroApi/v1/Api.php",
+		"/C/Users/Koval/Downloads/Telegram Desktop/Order978780.txt",
+		"/C/Users/Koval/Downloads/Telegram Desktop/Order1050929.txt",
+		"/C/Users/Koval/Desktop/Impactor_0.9.53/Impactor.pem",
+		"/C/Users/Koval/Desktop/Impactor_0.9.53/Impactor.dat",
+		"/C/Users/Koval/Desktop/Impactor_0.9.53/Impactor.dll",
+		"/C/Users/Koval/Desktop/checker_2021-04-12_18.24.39.txt",
+		"/C/Users/Koval/Desktop/coreproxy.online.txt"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\Koval\\django1"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "mysite/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3192,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1111,
+								1111
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 324.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "blog/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 547,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								547,
+								547
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "blog/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 84,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								84,
+								84
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": ".gitignore",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 56,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								56,
+								56
+							]
+						],
+						"settings":
+						{
+							"auto_name": "*.pyc",
+							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 217.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
